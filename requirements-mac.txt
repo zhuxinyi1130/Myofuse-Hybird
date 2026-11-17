@@ -1,0 +1,15 @@
+# Tested on Apple M1, macOS 14.6.1, Python 3.9.6.
+numpy==1.24.4
+torch==2.8.0
+cellpose==3.1.1.1
+aicsimageio==4.14.0
+aicspylibczi==3.3.1
+napari-plugin-engine==0.2.1
+opencv-python-headless==4.11.0.86
+pandas==2.3.3
+scipy==1.13.1
+scikit-image==0.24.0
+tifffile==2023.2.28
+openpyxl==3.1.5
+Pillow==11.3.0
+Flask==3.1.0
